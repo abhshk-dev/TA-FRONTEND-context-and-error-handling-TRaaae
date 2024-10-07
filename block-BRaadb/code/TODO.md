@@ -1,6 +1,6 @@
 ## Run this app
 
-To ren this app you need to do the following
+To run this app you need to do the following
 
 - Clone the app in this folder: https://github.com/AltCampus/react-hoc
 - Run `npm install`
@@ -18,3 +18,4 @@ To ren this app you need to do the following
 - Taking the help form of Higher Order Component refactor the app to have a HOC that will add the function of search to nay page
 - Create a HOC named `withSearch` using which we can add the search function to all three pages
 - After refactoring make sure to check if all the functionalities are working properly
+- pending
